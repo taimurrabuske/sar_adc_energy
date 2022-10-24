@@ -1,5 +1,10 @@
 *.csv
 .idea
+*.pdf
+*.aux
+*.bbl
+*.blg
+*.synctex.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
