@@ -1,4 +1,4 @@
-from cap_array import cap_array
+from .cap_array import cap_array
 
 
 class sar_adc_mcs:

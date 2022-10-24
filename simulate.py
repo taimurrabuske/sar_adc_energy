@@ -7,10 +7,10 @@
 import numpy
 import matplotlib.pyplot as plt
 
-from sar_adc_conventional import sar_adc_conventional
-from sar_adc_monotonic import sar_adc_monotonic
-from sar_adc_mcs import sar_adc_mcs
-from sar_adc_cs import sar_adc_cs
+from models.sar_adc_conventional import sar_adc_conventional
+from models.sar_adc_monotonic import sar_adc_monotonic
+from models.sar_adc_mcs import sar_adc_mcs
+from models.sar_adc_cs import sar_adc_cs
 
 from multiprocessing import Pool, Lock
 
